@@ -1,0 +1,4 @@
+Teste.MainActivity, Teste;md57e656dbe27f2923c604e3da59af63283.MainActivity
+Teste.MainActivity, Teste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57e656dbe27f2923c604e3da59af63283.MainActivity
+Teste.MainActivity;md57e656dbe27f2923c604e3da59af63283.MainActivity
+teste.MainActivity;md57e656dbe27f2923c604e3da59af63283.MainActivity
