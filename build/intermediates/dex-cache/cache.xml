@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\.android\build-cache\2a75598732ebbd75861397b9c8b5e52e7088f1e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dad5c4d757d15dc72b3bc69c1ce7e09bd72f4ae8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\.android\build-cache\72a97480b601809e81092484512d6c324a3f85e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35d0353d8984f379cf873f2360483f2149058dd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8fa95d0edd9b4be7f3e3de7a586e29de42cf69bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\.android\build-cache\f295f3d7814957b30fbb3e0cd2268c6633890fc6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05a179058813a54d83939887307221589b3fb055\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_aa467d67eb667ef80e017485f6d73811d6f32755\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\.android\build-cache\bd93df16683c7c2599494f94df3f5e09c7bd01c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5cc49cb12762820ca964defceea6f7bd82b24a3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\.android\build-cache\0e6980ef3618fc73eeb441407660e008d9628a0f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de9909e6cba1362a86c6709c6fbc8cee32e4f641\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\.android\build-cache\fc7b637b38a3c9463dc22ed0f24f6857528a788f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0fdfe34b298f8df0852b78dc58be5afb0527b0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\.android\build-cache\6e8033fa9ba30dc3e61563b696859ec91f23cfc8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d648fe9f0f87027934ea8e57c1874e70f5c4653\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\.android\build-cache\a41fd865473d6082791ddec62aeb7c71561a72df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21db13f57bd75d7b76899c2e0cd77b5e5b99a6f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_fb23df1c8a821e6abd1dafd376d9884e0f97905f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\.android\build-cache\d819ef8d7a7b15545d8fbf903f73b2b2b229f1be\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c43ec2cda05aa5ff68bfc2288a1daaf3c820c976\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\.android\build-cache\e1a80146c60bc24c0aa5503665ca6acaca242c3b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_127f063b16e8816fca9d3a6b8004106d48049d2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\.android\build-cache\a1cbd43cebb48dfdfb259fcf3e0deb7318277276\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_893060737203e4b8a7ec2037356d8c444cee8225\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\.android\build-cache\8723077af3b4c0a198f8b549fcaab51c67083473\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a22afaa28380be0a9b6fe4c9e07852e73cac08ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\.android\build-cache\9ed380d7004026191b1ac4c652349c63c4bdc528\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5b8aaee4f8bae16cda646df32082987b5957f30d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f8a14f237bb09afce29274f47aa69362bfb9284e">
+        <dex dex="C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d0f63b551ffdb213d8113f0ceccff4720493c1ec\classes.dex" />
+    </item>
+
+</items>

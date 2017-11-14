@@ -1,0 +1,7 @@
+#Sun Oct 22 18:12:35 BRST 2017
+base.0=C\:\\Users\\nicol\\Documents\\GitHub\\6 semestre\\DIMO\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8fa95d0edd9b4be7f3e3de7a586e29de42cf69bd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\nicol\\Documents\\GitHub\\6 semestre\\DIMO\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d0f63b551ffdb213d8113f0ceccff4720493c1ec\\classes.dex
+base.1=C\:\\Users\\nicol\\Documents\\GitHub\\6 semestre\\DIMO\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d0f63b551ffdb213d8113f0ceccff4720493c1ec
+file.0=C\:\\Users\\nicol\\Documents\\GitHub\\6 semestre\\DIMO\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8fa95d0edd9b4be7f3e3de7a586e29de42cf69bd\\classes.dex

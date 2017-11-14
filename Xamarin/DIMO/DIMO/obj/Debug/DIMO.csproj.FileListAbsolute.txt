@@ -1,0 +1,17 @@
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\bin\Debug\DIMO.dll
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\bin\Debug\DIMO.pdb
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\bin\Debug\DIMO.DIMO.apk
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\bin\Debug\DIMO.DIMO-Signed.apk
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\obj\Debug\DIMO.csprojResolveAssemblyReference.cache
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\obj\Debug\DIMO.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\obj\Debug\DIMO.dll
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\obj\Debug\DIMO.pdb
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\obj\Debug\android\bin\DIMO.DIMO.apk
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\obj\Debug\res\layout\cadastrarturmas.xml
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\obj\Debug\res\layout\turmas.xml
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\obj\Debug\res\values\strings.xml
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\obj\Debug\res\drawable\icon.png
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\obj\Debug\R.cs.flag
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\obj\Debug\uploadflags.txt
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\bin\Debug\DIMO.dll.mdb
+C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\Xamarin\DIMO\DIMO\obj\Debug\android\assets\DIMO.dll.mdb

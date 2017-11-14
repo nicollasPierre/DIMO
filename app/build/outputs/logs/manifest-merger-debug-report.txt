@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nicol\.android\build-cache\bd93df16683c7c2599494f94df3f5e09c7bd01c4\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\nicol\.android\build-cache\72a97480b601809e81092484512d6c324a3f85e0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\nicol\.android\build-cache\a1cbd43cebb48dfdfb259fcf3e0deb7318277276\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\nicol\.android\build-cache\2a75598732ebbd75861397b9c8b5e52e7088f1e2\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\nicol\.android\build-cache\6e8033fa9ba30dc3e61563b696859ec91f23cfc8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\nicol\.android\build-cache\e1a80146c60bc24c0aa5503665ca6acaca242c3b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\nicol\.android\build-cache\0e6980ef3618fc73eeb441407660e008d9628a0f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\nicol\.android\build-cache\d819ef8d7a7b15545d8fbf903f73b2b2b229f1be\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\nicol\.android\build-cache\9ed380d7004026191b1ac4c652349c63c4bdc528\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\nicol\.android\build-cache\8723077af3b4c0a198f8b549fcaab51c67083473\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\nicol\.android\build-cache\f295f3d7814957b30fbb3e0cd2268c6633890fc6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\nicol\.android\build-cache\a41fd865473d6082791ddec62aeb7c71561a72df\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:11:9-40
+activity#br.com.furb.projeto_software.dimo.AlunosList
+ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:13:13-39
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\nicol\.android\build-cache\bd93df16683c7c2599494f94df3f5e09c7bd01c4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\nicol\.android\build-cache\72a97480b601809e81092484512d6c324a3f85e0\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\nicol\.android\build-cache\a1cbd43cebb48dfdfb259fcf3e0deb7318277276\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\nicol\.android\build-cache\2a75598732ebbd75861397b9c8b5e52e7088f1e2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\nicol\.android\build-cache\6e8033fa9ba30dc3e61563b696859ec91f23cfc8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\nicol\.android\build-cache\fc7b637b38a3c9463dc22ed0f24f6857528a788f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\nicol\.android\build-cache\e1a80146c60bc24c0aa5503665ca6acaca242c3b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\nicol\.android\build-cache\0e6980ef3618fc73eeb441407660e008d9628a0f\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\nicol\.android\build-cache\d819ef8d7a7b15545d8fbf903f73b2b2b229f1be\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\nicol\.android\build-cache\9ed380d7004026191b1ac4c652349c63c4bdc528\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\nicol\.android\build-cache\8723077af3b4c0a198f8b549fcaab51c67083473\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\nicol\.android\build-cache\f295f3d7814957b30fbb3e0cd2268c6633890fc6\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\nicol\.android\build-cache\a41fd865473d6082791ddec62aeb7c71561a72df\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\nicol\.android\build-cache\72a97480b601809e81092484512d6c324a3f85e0\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nicol\Documents\GitHub\6 semestre\DIMO\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\nicol\.android\build-cache\72a97480b601809e81092484512d6c324a3f85e0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\nicol\.android\build-cache\a1cbd43cebb48dfdfb259fcf3e0deb7318277276\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\nicol\.android\build-cache\2a75598732ebbd75861397b9c8b5e52e7088f1e2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\nicol\.android\build-cache\6e8033fa9ba30dc3e61563b696859ec91f23cfc8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\nicol\.android\build-cache\fc7b637b38a3c9463dc22ed0f24f6857528a788f\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\nicol\.android\build-cache\e1a80146c60bc24c0aa5503665ca6acaca242c3b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\nicol\.android\build-cache\0e6980ef3618fc73eeb441407660e008d9628a0f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\nicol\.android\build-cache\d819ef8d7a7b15545d8fbf903f73b2b2b229f1be\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\nicol\.android\build-cache\9ed380d7004026191b1ac4c652349c63c4bdc528\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\nicol\.android\build-cache\8723077af3b4c0a198f8b549fcaab51c67083473\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\nicol\.android\build-cache\f295f3d7814957b30fbb3e0cd2268c6633890fc6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\nicol\.android\build-cache\a41fd865473d6082791ddec62aeb7c71561a72df\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\nicol\.android\build-cache\72a97480b601809e81092484512d6c324a3f85e0\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\nicol\.android\build-cache\72a97480b601809e81092484512d6c324a3f85e0\output\AndroidManifest.xml:26:9-47

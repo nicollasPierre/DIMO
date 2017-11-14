@@ -10,7 +10,7 @@ namespace DIMO
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-
+            SetContentView(Resource.Layout.Turmas);
             Button button1 = FindViewById<Button>(Resource.Id.btnListarTurmas);
             button1.Click += (sender, e) => {
                 
