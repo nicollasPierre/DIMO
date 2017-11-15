@@ -14,6 +14,9 @@ namespace DIMO
             SetContentView(Resource.Layout.MenuPrincipal);
 
             Button btn_turmas = FindViewById<Button>(Resource.Id.btnTurmas);
+
+            DIMO.Resources.controler.dao.CriarBD.criaBD();
+
             btn_turmas.Click += delegate
             {
                 StartActivity(typeof(Resources.controler.TurmasActivity));

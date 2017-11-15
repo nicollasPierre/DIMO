@@ -44,4 +44,3 @@ C:\Users\pauli\Documents\GitHub\DIMO\Xamarin\DIMO\DIMO\obj\Debug\android\assets\
 C:\Users\pauli\Documents\GitHub\DIMO\Xamarin\DIMO\DIMO\bin\Debug\DIMO.dll.mdb
 C:\Users\pauli\Documents\GitHub\DIMO\Xamarin\DIMO\DIMO\obj\Debug\android\assets\DIMO.dll.mdb
 C:\Users\pauli\Documents\GitHub\DIMO\Xamarin\DIMO\DIMO\obj\Debug\DIMO.dll.mdb
-C:\Users\pauli\Documents\GitHub\DIMO\Xamarin\DIMO\DIMO\bin\Debug\DIMO.dll.mdb
