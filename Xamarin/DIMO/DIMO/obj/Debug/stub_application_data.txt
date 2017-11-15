@@ -1,2 +1,2 @@
 android.app.Application
-Teste.Teste
+DIMO.DIMO

@@ -97,8 +97,8 @@ public class MonoPackageManager {
 
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
-		/* We need to ensure that "Teste.dll" comes first in this list. */
-		"Teste.dll",
+		/* We need to ensure that "DIMO.dll" comes first in this list. */
+		"DIMO.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

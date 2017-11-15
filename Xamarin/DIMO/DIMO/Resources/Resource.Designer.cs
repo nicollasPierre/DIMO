@@ -60,11 +60,14 @@ namespace DIMO
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050004
+			public const int btnCadastrarTurma = 2131034116;
+			
 			// aapt resource value: 0x7f050003
-			public const int btnCadastrarTurma = 2131034115;
+			public const int btnListarTurmas = 2131034115;
 			
 			// aapt resource value: 0x7f050002
-			public const int btnListarTurmas = 2131034114;
+			public const int btnTurmas = 2131034114;
 			
 			// aapt resource value: 0x7f050001
 			public const int editText1 = 2131034113;
@@ -89,7 +92,10 @@ namespace DIMO
 			public const int CadastrarTurmas = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int Turmas = 2130903041;
+			public const int MenuPrincipal = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int Turmas = 2130903042;
 			
 			static Layout()
 			{
