@@ -14,92 +14,58 @@ namespace DIMO.Resources.model
 {
     class Aluno
     {
-        private int ID;
-        private String nome;
-        private String endereco;
-        private String telefone;
-        private String CPF;
-        private String RG;
+        private int id;
+        private string nome;
+        private string endereco;
+        private string telefone;
+        private string cpf;
+        private string rg;
 
-        public Aluno(String nome, String endereco, String telefone, String CPF, String RG)
+        public int Id
         {
-            setNome(nome);
-            setEndereco(endereco);
-            setTelefone(telefone);
-            setCPF(CPF);
-            setRG(RG);
+            get { return id; }
+            set { id = value; }
         }
 
-        public int getID()
+        public string Nome
         {
-            return ID;
+            get { return nome; }
+            set { nome = value; }
         }
 
-        public void setID(int ID)
+        public string Endereco
         {
-            this.ID = ID;
+            get { return endereco; }
+            set { endereco = value; }
         }
 
-        public String getNome()
+        public string Telefone
         {
-            return nome;
+            get { return telefone; }
+            set { telefone = value; }
         }
 
-        public void setNome(String nome)
+        public string CPF
         {
-            this.nome = nome;
+            get { return cpf; }
+            set { cpf = value; }
         }
 
-        public String getEndereco()
+        public string RG
         {
-            return endereco;
+            get { return rg; }
+            set { rg = value; }
         }
 
-        public void setEndereco(String endereco)
-        {
-            this.endereco = endereco;
-        }
-
-        public String getTelefone()
-        {
-            return telefone;
-        }
-
-        public void setTelefone(String telefone)
-        {
-            this.telefone = telefone;
-        }
-
-        public String getCPF()
-        {
-            return CPF;
-        }
-
-        public void setCPF(String CPF)
-        {
-            this.CPF = CPF;
-        }
-
-        public String getRG()
-        {
-            return RG;
-        }
-
-        public void setRG(String RG)
-        {
-            this.RG = RG;
-        }
-
-        
-        public String toString()
+        public string ToString()
         {
             return "\"Aluno\"{" +
-                    "\"ID\":" + ID +
+                    "\"ID\":" + id +
                     ", \"nome\":\"" + nome + '\"' +
                     ", \"endereco\":\"" + endereco + '\"' +
                     ", \"telefone\":\"" + telefone + '\"' +
-                    ", \"CPF\":\"" + CPF + '\"' +
-                    ", \"RG\":\"" + RG + '\"' +
+                    ", \"CPF\":\"" + cpf + '\"' +
+                    ", \"RG\":\"" + rg + '\"' +
                     '}';
         }
 
