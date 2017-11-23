@@ -4,15 +4,20 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <Button
+        android:text="Cadastrar Turma"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCadastrarTurma"
+        android:onClick="@string/Hello" />
+    <Button
         android:text="Listar Turmas"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/btnListarTurmas"
         android:onClick="@string/Hello" />
     <Button
-        android:text="Cadastrar Turma"
+        android:text="Voltar para o Menu Principal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/btnCadastrarTurma"
-        android:onClick="@string/Hello" />
+        android:id="@+id/btnVoltarTurmas" />
 </LinearLayout>
