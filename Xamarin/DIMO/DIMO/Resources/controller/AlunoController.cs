@@ -31,6 +31,11 @@ namespace DIMO.Resources.controller
             return proxId;
         }
 
+        public static void InicializaAlunos(List<Aluno> alunosIni)
+        {
+            alunos = alunosIni;
+        }
+
         public static List<Aluno> ObtemAlunos()
         {
             return alunos;

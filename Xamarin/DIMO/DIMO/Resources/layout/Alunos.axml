@@ -6,8 +6,18 @@
     android:minWidth="25px"
     android:minHeight="25px">
     <Button
-        android:text="Button"
+        android:text="Cadastrar Aluno"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/button1" />
+        android:id="@+id/btnCadastrarAluno" />
+    <Button
+        android:text="Listar Alunos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnListarAlunos" />
+    <Button
+        android:text="Voltar para Menu Principal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnVoltarAlunos" />
 </LinearLayout>
