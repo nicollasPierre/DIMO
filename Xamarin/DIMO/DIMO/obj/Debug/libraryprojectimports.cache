@@ -2,9 +2,9 @@
 <Paths>
   <Jars></Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\Users\pauli\Documents\GitHub\DIMO\Xamarin\DIMO\DIMO\obj\Debug\__library_projects__\System.Data.Portable\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\pauli\Documents\GitHub\DIMO\Xamarin\DIMO\DIMO\obj\Debug\__library_projects__\System.Transactions.Portable\library_project_imports\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\pauli\Documents\GitHub\DIMO\Xamarin\DIMO\DIMO\obj\Debug\__library_projects__\Xamarin.Bindings.MaterialDateTimePicker\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\pauli\Desktop\DIMO BACKUP\GITHUB 2\DIMO\Xamarin\DIMO\DIMO\obj\Debug\__library_projects__\System.Data.Portable\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\pauli\Desktop\DIMO BACKUP\GITHUB 2\DIMO\Xamarin\DIMO\DIMO\obj\Debug\__library_projects__\System.Transactions.Portable\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\pauli\Desktop\DIMO BACKUP\GITHUB 2\DIMO\Xamarin\DIMO\DIMO\obj\Debug\__library_projects__\Xamarin.Bindings.MaterialDateTimePicker\library_project_imports\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\Debug\__library_projects__\System.Data.Portable\library_project_imports\assets</ResolvedAssetDirectory>
@@ -13,8 +13,8 @@
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\Users\pauli\Documents\GitHub\DIMO\Xamarin\DIMO\DIMO\obj\Debug\__library_projects__\System.Data.Portable.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\pauli\Documents\GitHub\DIMO\Xamarin\DIMO\DIMO\obj\Debug\__library_projects__\System.Transactions.Portable.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\pauli\Documents\GitHub\DIMO\Xamarin\DIMO\DIMO\obj\Debug\__library_projects__\Xamarin.Bindings.MaterialDateTimePicker.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\pauli\Desktop\DIMO BACKUP\GITHUB 2\DIMO\Xamarin\DIMO\DIMO\obj\Debug\__library_projects__\System.Data.Portable.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\pauli\Desktop\DIMO BACKUP\GITHUB 2\DIMO\Xamarin\DIMO\DIMO\obj\Debug\__library_projects__\System.Transactions.Portable.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\pauli\Desktop\DIMO BACKUP\GITHUB 2\DIMO\Xamarin\DIMO\DIMO\obj\Debug\__library_projects__\Xamarin.Bindings.MaterialDateTimePicker.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>

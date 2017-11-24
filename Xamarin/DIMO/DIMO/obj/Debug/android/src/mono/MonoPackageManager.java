@@ -101,11 +101,10 @@ class MonoPackageManager_Resources {
 		"DIMO.dll",
 		"Newtonsoft.Json.dll",
 		"System.Data.Portable.dll",
-		"System.Transactions.Portable.dll",
 		"Xamarin.Android.Support.v4.dll",
 		"Xamarin.Bindings.MaterialDateTimePicker.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};
-	public static final String ApiPackageName = "Mono.Android.Platform.ApiLevel_23";
+	public static final String ApiPackageName = null;
 }
