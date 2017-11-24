@@ -2,7 +2,7 @@
 <xs:schema xmlns:tools="http://schemas.android.com/tools" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/tools" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>15/11/2017 02:24:40</xs:documentation>
+    <xs:documentation>23/11/2017 02:55:38</xs:documentation>
   </xs:annotation>
   <xs:attribute name="layout">
     <xs:annotation>
@@ -12,8 +12,31 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@layout/alunos" />
+            <xs:enumeration value="@layout/aulas" />
+            <xs:enumeration value="@layout/cadastraralunos" />
             <xs:enumeration value="@layout/cadastrarturmas" />
+            <xs:enumeration value="@layout/cadastrarturmasalunos" />
+            <xs:enumeration value="@layout/cadastrarturmasalunositens" />
+            <xs:enumeration value="@layout/historicoaulaitens" />
+            <xs:enumeration value="@layout/historicoaulas" />
+            <xs:enumeration value="@layout/listaralunos" />
+            <xs:enumeration value="@layout/listaralunositens" />
+            <xs:enumeration value="@layout/listarturmas" />
+            <xs:enumeration value="@layout/listarturmasitens" />
+            <xs:enumeration value="@layout/mdtp_date_picker_dialog" />
+            <xs:enumeration value="@layout/mdtp_date_picker_header_view" />
+            <xs:enumeration value="@layout/mdtp_date_picker_selected_date" />
+            <xs:enumeration value="@layout/mdtp_date_picker_view_animator" />
+            <xs:enumeration value="@layout/mdtp_done_button" />
+            <xs:enumeration value="@layout/mdtp_time_header_label" />
+            <xs:enumeration value="@layout/mdtp_time_picker_dialog" />
+            <xs:enumeration value="@layout/mdtp_time_title_view" />
+            <xs:enumeration value="@layout/mdtp_year_label_text_view" />
             <xs:enumeration value="@layout/menuprincipal" />
+            <xs:enumeration value="@layout/registrarfrequencia" />
+            <xs:enumeration value="@layout/registrarfrequenciaalunos" />
+            <xs:enumeration value="@layout/registrarfrequenciaalunositens" />
             <xs:enumeration value="@layout/turmas" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
@@ -62,8 +85,31 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@layout/alunos" />
+            <xs:enumeration value="@layout/aulas" />
+            <xs:enumeration value="@layout/cadastraralunos" />
             <xs:enumeration value="@layout/cadastrarturmas" />
+            <xs:enumeration value="@layout/cadastrarturmasalunos" />
+            <xs:enumeration value="@layout/cadastrarturmasalunositens" />
+            <xs:enumeration value="@layout/historicoaulaitens" />
+            <xs:enumeration value="@layout/historicoaulas" />
+            <xs:enumeration value="@layout/listaralunos" />
+            <xs:enumeration value="@layout/listaralunositens" />
+            <xs:enumeration value="@layout/listarturmas" />
+            <xs:enumeration value="@layout/listarturmasitens" />
+            <xs:enumeration value="@layout/mdtp_date_picker_dialog" />
+            <xs:enumeration value="@layout/mdtp_date_picker_header_view" />
+            <xs:enumeration value="@layout/mdtp_date_picker_selected_date" />
+            <xs:enumeration value="@layout/mdtp_date_picker_view_animator" />
+            <xs:enumeration value="@layout/mdtp_done_button" />
+            <xs:enumeration value="@layout/mdtp_time_header_label" />
+            <xs:enumeration value="@layout/mdtp_time_picker_dialog" />
+            <xs:enumeration value="@layout/mdtp_time_title_view" />
+            <xs:enumeration value="@layout/mdtp_year_label_text_view" />
             <xs:enumeration value="@layout/menuprincipal" />
+            <xs:enumeration value="@layout/registrarfrequencia" />
+            <xs:enumeration value="@layout/registrarfrequenciaalunos" />
+            <xs:enumeration value="@layout/registrarfrequenciaalunositens" />
             <xs:enumeration value="@layout/turmas" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
@@ -112,8 +158,31 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@layout/alunos" />
+            <xs:enumeration value="@layout/aulas" />
+            <xs:enumeration value="@layout/cadastraralunos" />
             <xs:enumeration value="@layout/cadastrarturmas" />
+            <xs:enumeration value="@layout/cadastrarturmasalunos" />
+            <xs:enumeration value="@layout/cadastrarturmasalunositens" />
+            <xs:enumeration value="@layout/historicoaulaitens" />
+            <xs:enumeration value="@layout/historicoaulas" />
+            <xs:enumeration value="@layout/listaralunos" />
+            <xs:enumeration value="@layout/listaralunositens" />
+            <xs:enumeration value="@layout/listarturmas" />
+            <xs:enumeration value="@layout/listarturmasitens" />
+            <xs:enumeration value="@layout/mdtp_date_picker_dialog" />
+            <xs:enumeration value="@layout/mdtp_date_picker_header_view" />
+            <xs:enumeration value="@layout/mdtp_date_picker_selected_date" />
+            <xs:enumeration value="@layout/mdtp_date_picker_view_animator" />
+            <xs:enumeration value="@layout/mdtp_done_button" />
+            <xs:enumeration value="@layout/mdtp_time_header_label" />
+            <xs:enumeration value="@layout/mdtp_time_picker_dialog" />
+            <xs:enumeration value="@layout/mdtp_time_title_view" />
+            <xs:enumeration value="@layout/mdtp_year_label_text_view" />
             <xs:enumeration value="@layout/menuprincipal" />
+            <xs:enumeration value="@layout/registrarfrequencia" />
+            <xs:enumeration value="@layout/registrarfrequenciaalunos" />
+            <xs:enumeration value="@layout/registrarfrequenciaalunositens" />
             <xs:enumeration value="@layout/turmas" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
@@ -162,8 +231,31 @@
       <xs:union memberTypes="xs:string">
         <xs:simpleType>
           <xs:restriction base="xs:string">
+            <xs:enumeration value="@layout/alunos" />
+            <xs:enumeration value="@layout/aulas" />
+            <xs:enumeration value="@layout/cadastraralunos" />
             <xs:enumeration value="@layout/cadastrarturmas" />
+            <xs:enumeration value="@layout/cadastrarturmasalunos" />
+            <xs:enumeration value="@layout/cadastrarturmasalunositens" />
+            <xs:enumeration value="@layout/historicoaulaitens" />
+            <xs:enumeration value="@layout/historicoaulas" />
+            <xs:enumeration value="@layout/listaralunos" />
+            <xs:enumeration value="@layout/listaralunositens" />
+            <xs:enumeration value="@layout/listarturmas" />
+            <xs:enumeration value="@layout/listarturmasitens" />
+            <xs:enumeration value="@layout/mdtp_date_picker_dialog" />
+            <xs:enumeration value="@layout/mdtp_date_picker_header_view" />
+            <xs:enumeration value="@layout/mdtp_date_picker_selected_date" />
+            <xs:enumeration value="@layout/mdtp_date_picker_view_animator" />
+            <xs:enumeration value="@layout/mdtp_done_button" />
+            <xs:enumeration value="@layout/mdtp_time_header_label" />
+            <xs:enumeration value="@layout/mdtp_time_picker_dialog" />
+            <xs:enumeration value="@layout/mdtp_time_title_view" />
+            <xs:enumeration value="@layout/mdtp_year_label_text_view" />
             <xs:enumeration value="@layout/menuprincipal" />
+            <xs:enumeration value="@layout/registrarfrequencia" />
+            <xs:enumeration value="@layout/registrarfrequenciaalunos" />
+            <xs:enumeration value="@layout/registrarfrequenciaalunositens" />
             <xs:enumeration value="@layout/turmas" />
             <xs:enumeration value="@android:layout/activity_list_item" />
             <xs:enumeration value="@android:layout/browser_link_context_header" />
@@ -204,6 +296,23 @@
       </xs:union>
     </xs:simpleType>
   </xs:attribute>
+  <xs:attribute name="openDrawer">
+    <xs:annotation>
+      <xs:documentation></xs:documentation>
+    </xs:annotation>
+    <xs:simpleType>
+      <xs:union memberTypes="xs:string">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="end" />
+            <xs:enumeration value="left" />
+            <xs:enumeration value="right" />
+            <xs:enumeration value="start" />
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:union>
+    </xs:simpleType>
+  </xs:attribute>
   <xs:attribute name="parentTag">
     <xs:annotation>
       <xs:documentation></xs:documentation>
@@ -226,6 +335,37 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@string/ApplicationName" />
             <xs:enumeration value="@string/Hello" />
+            <xs:enumeration value="@string/mdtp_ampm_circle_radius_multiplier" />
+            <xs:enumeration value="@string/mdtp_cancel" />
+            <xs:enumeration value="@string/mdtp_circle_radius_multiplier" />
+            <xs:enumeration value="@string/mdtp_circle_radius_multiplier_24HourMode" />
+            <xs:enumeration value="@string/mdtp_date_v1_monthyear" />
+            <xs:enumeration value="@string/mdtp_day_of_week_label_typeface" />
+            <xs:enumeration value="@string/mdtp_day_picker_description" />
+            <xs:enumeration value="@string/mdtp_deleted_key" />
+            <xs:enumeration value="@string/mdtp_done_label" />
+            <xs:enumeration value="@string/mdtp_hour_picker_description" />
+            <xs:enumeration value="@string/mdtp_item_is_selected" />
+            <xs:enumeration value="@string/mdtp_minute_picker_description" />
+            <xs:enumeration value="@string/mdtp_numbers_radius_multiplier_inner" />
+            <xs:enumeration value="@string/mdtp_numbers_radius_multiplier_normal" />
+            <xs:enumeration value="@string/mdtp_numbers_radius_multiplier_outer" />
+            <xs:enumeration value="@string/mdtp_ok" />
+            <xs:enumeration value="@string/mdtp_radial_numbers_typeface" />
+            <xs:enumeration value="@string/mdtp_sans_serif" />
+            <xs:enumeration value="@string/mdtp_second_picker_description" />
+            <xs:enumeration value="@string/mdtp_select_day" />
+            <xs:enumeration value="@string/mdtp_select_hours" />
+            <xs:enumeration value="@string/mdtp_select_minutes" />
+            <xs:enumeration value="@string/mdtp_select_seconds" />
+            <xs:enumeration value="@string/mdtp_select_year" />
+            <xs:enumeration value="@string/mdtp_selection_radius_multiplier" />
+            <xs:enumeration value="@string/mdtp_text_size_multiplier_inner" />
+            <xs:enumeration value="@string/mdtp_text_size_multiplier_normal" />
+            <xs:enumeration value="@string/mdtp_text_size_multiplier_outer" />
+            <xs:enumeration value="@string/mdtp_time_placeholder" />
+            <xs:enumeration value="@string/mdtp_time_separator" />
+            <xs:enumeration value="@string/mdtp_year_picker_description" />
             <xs:enumeration value="@android:string/cancel" />
             <xs:enumeration value="@android:string/copy" />
             <xs:enumeration value="@android:string/copyUrl" />

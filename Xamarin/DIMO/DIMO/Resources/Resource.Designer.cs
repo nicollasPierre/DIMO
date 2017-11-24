@@ -31,6 +31,9 @@ namespace DIMO
 		public partial class Attribute
 		{
 			
+			// aapt resource value: 0x7f010000
+			public const int mdtp_theme_dark = 2130771968;
+			
 			static Attribute()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -41,11 +44,298 @@ namespace DIMO
 			}
 		}
 		
+		public partial class Color
+		{
+			
+			// aapt resource value: 0x7f070000
+			public const int mdtp_accent_color = 2131165184;
+			
+			// aapt resource value: 0x7f070001
+			public const int mdtp_accent_color_dark = 2131165185;
+			
+			// aapt resource value: 0x7f070002
+			public const int mdtp_accent_color_focused = 2131165186;
+			
+			// aapt resource value: 0x7f070003
+			public const int mdtp_ampm_text_color = 2131165187;
+			
+			// aapt resource value: 0x7f070004
+			public const int mdtp_background_color = 2131165188;
+			
+			// aapt resource value: 0x7f070005
+			public const int mdtp_button_color = 2131165189;
+			
+			// aapt resource value: 0x7f070006
+			public const int mdtp_button_selected = 2131165190;
+			
+			// aapt resource value: 0x7f070007
+			public const int mdtp_calendar_header = 2131165191;
+			
+			// aapt resource value: 0x7f070008
+			public const int mdtp_calendar_selected_date_text = 2131165192;
+			
+			// aapt resource value: 0x7f070009
+			public const int mdtp_circle_background = 2131165193;
+			
+			// aapt resource value: 0x7f07000a
+			public const int mdtp_circle_background_dark_theme = 2131165194;
+			
+			// aapt resource value: 0x7f07000b
+			public const int mdtp_circle_color = 2131165195;
+			
+			// aapt resource value: 0x7f07000c
+			public const int mdtp_dark_gray = 2131165196;
+			
+			// aapt resource value: 0x7f07000d
+			public const int mdtp_date_picker_month_day = 2131165197;
+			
+			// aapt resource value: 0x7f07000e
+			public const int mdtp_date_picker_month_day_dark_theme = 2131165198;
+			
+			// aapt resource value: 0x7f070025
+			public const int mdtp_date_picker_selector = 2131165221;
+			
+			// aapt resource value: 0x7f07000f
+			public const int mdtp_date_picker_text_disabled = 2131165199;
+			
+			// aapt resource value: 0x7f070010
+			public const int mdtp_date_picker_text_disabled_dark_theme = 2131165200;
+			
+			// aapt resource value: 0x7f070011
+			public const int mdtp_date_picker_text_highlighted = 2131165201;
+			
+			// aapt resource value: 0x7f070012
+			public const int mdtp_date_picker_text_highlighted_dark_theme = 2131165202;
+			
+			// aapt resource value: 0x7f070013
+			public const int mdtp_date_picker_text_normal = 2131165203;
+			
+			// aapt resource value: 0x7f070014
+			public const int mdtp_date_picker_text_normal_dark_theme = 2131165204;
+			
+			// aapt resource value: 0x7f070015
+			public const int mdtp_date_picker_view_animator = 2131165205;
+			
+			// aapt resource value: 0x7f070016
+			public const int mdtp_date_picker_view_animator_dark_theme = 2131165206;
+			
+			// aapt resource value: 0x7f070026
+			public const int mdtp_date_picker_year_selector = 2131165222;
+			
+			// aapt resource value: 0x7f070017
+			public const int mdtp_done_disabled_dark = 2131165207;
+			
+			// aapt resource value: 0x7f070027
+			public const int mdtp_done_text_color = 2131165223;
+			
+			// aapt resource value: 0x7f070028
+			public const int mdtp_done_text_color_dark = 2131165224;
+			
+			// aapt resource value: 0x7f070018
+			public const int mdtp_done_text_color_dark_disabled = 2131165208;
+			
+			// aapt resource value: 0x7f070019
+			public const int mdtp_done_text_color_dark_normal = 2131165209;
+			
+			// aapt resource value: 0x7f07001a
+			public const int mdtp_done_text_color_disabled = 2131165210;
+			
+			// aapt resource value: 0x7f07001b
+			public const int mdtp_done_text_color_normal = 2131165211;
+			
+			// aapt resource value: 0x7f07001c
+			public const int mdtp_light_gray = 2131165212;
+			
+			// aapt resource value: 0x7f07001d
+			public const int mdtp_line_background = 2131165213;
+			
+			// aapt resource value: 0x7f07001e
+			public const int mdtp_line_dark = 2131165214;
+			
+			// aapt resource value: 0x7f07001f
+			public const int mdtp_neutral_pressed = 2131165215;
+			
+			// aapt resource value: 0x7f070020
+			public const int mdtp_numbers_text_color = 2131165216;
+			
+			// aapt resource value: 0x7f070021
+			public const int mdtp_red = 2131165217;
+			
+			// aapt resource value: 0x7f070022
+			public const int mdtp_red_focused = 2131165218;
+			
+			// aapt resource value: 0x7f070023
+			public const int mdtp_transparent_black = 2131165219;
+			
+			// aapt resource value: 0x7f070024
+			public const int mdtp_white = 2131165220;
+			
+			static Color()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Color()
+			{
+			}
+		}
+		
+		public partial class Dimension
+		{
+			
+			// aapt resource value: 0x7f050009
+			public const int mdtp_ampm_label_size = 2131034121;
+			
+			// aapt resource value: 0x7f05000a
+			public const int mdtp_ampm_left_padding = 2131034122;
+			
+			// aapt resource value: 0x7f050002
+			public const int mdtp_date_picker_component_width = 2131034114;
+			
+			// aapt resource value: 0x7f05000b
+			public const int mdtp_date_picker_header_height = 2131034123;
+			
+			// aapt resource value: 0x7f050012
+			public const int mdtp_date_picker_header_text_size = 2131034130;
+			
+			// aapt resource value: 0x7f050000
+			public const int mdtp_date_picker_view_animator_height = 2131034112;
+			
+			// aapt resource value: 0x7f050013
+			public const int mdtp_day_number_select_circle_radius = 2131034131;
+			
+			// aapt resource value: 0x7f050014
+			public const int mdtp_day_number_size = 2131034132;
+			
+			// aapt resource value: 0x7f050003
+			public const int mdtp_dialog_height = 2131034115;
+			
+			// aapt resource value: 0x7f050023
+			public const int mdtp_done_button_height = 2131034147;
+			
+			// aapt resource value: 0x7f050024
+			public const int mdtp_done_label_size = 2131034148;
+			
+			// aapt resource value: 0x7f050015
+			public const int mdtp_extra_time_label_margin = 2131034133;
+			
+			// aapt resource value: 0x7f05000c
+			public const int mdtp_footer_height = 2131034124;
+			
+			// aapt resource value: 0x7f05000d
+			public const int mdtp_header_height = 2131034125;
+			
+			// aapt resource value: 0x7f050004
+			public const int mdtp_left_side_width = 2131034116;
+			
+			// aapt resource value: 0x7f050025
+			public const int mdtp_material_button_height = 2131034149;
+			
+			// aapt resource value: 0x7f050026
+			public const int mdtp_material_button_minwidth = 2131034150;
+			
+			// aapt resource value: 0x7f050027
+			public const int mdtp_material_button_textpadding_horizontal = 2131034151;
+			
+			// aapt resource value: 0x7f050028
+			public const int mdtp_material_button_textsize = 2131034152;
+			
+			// aapt resource value: 0x7f050016
+			public const int mdtp_minimum_margin_sides = 2131034134;
+			
+			// aapt resource value: 0x7f050017
+			public const int mdtp_minimum_margin_top_bottom = 2131034135;
+			
+			// aapt resource value: 0x7f050018
+			public const int mdtp_month_day_label_text_size = 2131034136;
+			
+			// aapt resource value: 0x7f050019
+			public const int mdtp_month_label_size = 2131034137;
+			
+			// aapt resource value: 0x7f05001a
+			public const int mdtp_month_list_item_header_height = 2131034138;
+			
+			// aapt resource value: 0x7f05001b
+			public const int mdtp_month_list_item_padding = 2131034139;
+			
+			// aapt resource value: 0x7f05001c
+			public const int mdtp_month_list_item_size = 2131034140;
+			
+			// aapt resource value: 0x7f05001d
+			public const int mdtp_month_select_circle_radius = 2131034141;
+			
+			// aapt resource value: 0x7f050005
+			public const int mdtp_picker_dimen = 2131034117;
+			
+			// aapt resource value: 0x7f05001e
+			public const int mdtp_selected_calendar_layout_height = 2131034142;
+			
+			// aapt resource value: 0x7f050006
+			public const int mdtp_selected_date_day_size = 2131034118;
+			
+			// aapt resource value: 0x7f050022
+			public const int mdtp_selected_date_height = 2131034146;
+			
+			// aapt resource value: 0x7f050007
+			public const int mdtp_selected_date_month_size = 2131034119;
+			
+			// aapt resource value: 0x7f050008
+			public const int mdtp_selected_date_year_size = 2131034120;
+			
+			// aapt resource value: 0x7f05000e
+			public const int mdtp_separator_padding = 2131034126;
+			
+			// aapt resource value: 0x7f05000f
+			public const int mdtp_time_label_right_padding = 2131034127;
+			
+			// aapt resource value: 0x7f050029
+			public const int mdtp_time_label_shift = 2131034153;
+			
+			// aapt resource value: 0x7f050010
+			public const int mdtp_time_label_size = 2131034128;
+			
+			// aapt resource value: 0x7f050011
+			public const int mdtp_time_label_subscript_size = 2131034129;
+			
+			// aapt resource value: 0x7f05001f
+			public const int mdtp_time_picker_header_text_size = 2131034143;
+			
+			// aapt resource value: 0x7f050001
+			public const int mdtp_time_picker_height = 2131034113;
+			
+			// aapt resource value: 0x7f050020
+			public const int mdtp_year_label_height = 2131034144;
+			
+			// aapt resource value: 0x7f050021
+			public const int mdtp_year_label_text_size = 2131034145;
+			
+			static Dimension()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Dimension()
+			{
+			}
+		}
+		
 		public partial class Drawable
 		{
 			
 			// aapt resource value: 0x7f020000
 			public const int Icon = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int mdtp_done_background_color = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int mdtp_done_background_color_dark = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int mdtp_material_button_background = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int mdtp_material_button_selected = 2130837508;
 			
 			static Drawable()
 			{
@@ -60,20 +350,296 @@ namespace DIMO
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050004
-			public const int btnCadastrarTurma = 2131034116;
+			// aapt resource value: 0x7f080048
+			public const int ampm_hitspace = 2131230792;
 			
-			// aapt resource value: 0x7f050003
-			public const int btnListarTurmas = 2131034115;
+			// aapt resource value: 0x7f080049
+			public const int ampm_label = 2131230793;
 			
-			// aapt resource value: 0x7f050002
-			public const int btnTurmas = 2131034114;
+			// aapt resource value: 0x7f08003a
+			public const int animator = 2131230778;
 			
-			// aapt resource value: 0x7f050001
-			public const int editText1 = 2131034113;
+			// aapt resource value: 0x7f080020
+			public const int btnAdicionarAluno = 2131230752;
 			
-			// aapt resource value: 0x7f050000
-			public const int textView1 = 2131034112;
+			// aapt resource value: 0x7f08001a
+			public const int btnAdicionarAlunoCadastrarTurmas = 2131230746;
+			
+			// aapt resource value: 0x7f08004f
+			public const int btnAlunos = 2131230799;
+			
+			// aapt resource value: 0x7f080051
+			public const int btnAulas = 2131230801;
+			
+			// aapt resource value: 0x7f080000
+			public const int btnCadastrarAluno = 2131230720;
+			
+			// aapt resource value: 0x7f08005e
+			public const int btnCadastrarTurma = 2131230814;
+			
+			// aapt resource value: 0x7f08002d
+			public const int btnEditarAlunoListar = 2131230765;
+			
+			// aapt resource value: 0x7f080025
+			public const int btnEditarAulaListar = 2131230757;
+			
+			// aapt resource value: 0x7f080032
+			public const int btnEditarTurmaListar = 2131230770;
+			
+			// aapt resource value: 0x7f08002e
+			public const int btnExcluirAlunoListar = 2131230766;
+			
+			// aapt resource value: 0x7f080027
+			public const int btnExcluirAulaListar = 2131230759;
+			
+			// aapt resource value: 0x7f080033
+			public const int btnExcluirTurmaListar = 2131230771;
+			
+			// aapt resource value: 0x7f080004
+			public const int btnHistoricoAulas = 2131230724;
+			
+			// aapt resource value: 0x7f080001
+			public const int btnListarAlunos = 2131230721;
+			
+			// aapt resource value: 0x7f08005f
+			public const int btnListarTurmas = 2131230815;
+			
+			// aapt resource value: 0x7f080003
+			public const int btnRegistrarFrequencia = 2131230723;
+			
+			// aapt resource value: 0x7f080056
+			public const int btnRegistrarFrequenciaAlunos = 2131230806;
+			
+			// aapt resource value: 0x7f080023
+			public const int btnRemoverAlunoTurma = 2131230755;
+			
+			// aapt resource value: 0x7f080016
+			public const int btnSalvarAluno = 2131230742;
+			
+			// aapt resource value: 0x7f080059
+			public const int btnSalvarAlunosRegistrarFrequencia = 2131230809;
+			
+			// aapt resource value: 0x7f080057
+			public const int btnSalvarRegistrarFrequencia = 2131230807;
+			
+			// aapt resource value: 0x7f08001b
+			public const int btnSalvarTurma = 2131230747;
+			
+			// aapt resource value: 0x7f08001d
+			public const int btnSalvarTurmasAlunos = 2131230749;
+			
+			// aapt resource value: 0x7f080050
+			public const int btnTurmas = 2131230800;
+			
+			// aapt resource value: 0x7f080002
+			public const int btnVoltarAlunos = 2131230722;
+			
+			// aapt resource value: 0x7f080005
+			public const int btnVoltarAula = 2131230725;
+			
+			// aapt resource value: 0x7f080017
+			public const int btnVoltarCadastraAluno = 2131230743;
+			
+			// aapt resource value: 0x7f08001c
+			public const int btnVoltarCadastrarTurmas = 2131230748;
+			
+			// aapt resource value: 0x7f080028
+			public const int btnVoltarHistoricoAulas = 2131230760;
+			
+			// aapt resource value: 0x7f08002a
+			public const int btnVoltarListarAlunos = 2131230762;
+			
+			// aapt resource value: 0x7f08002f
+			public const int btnVoltarListarTurmas = 2131230767;
+			
+			// aapt resource value: 0x7f080058
+			public const int btnVoltarRegistrarFrequencia = 2131230808;
+			
+			// aapt resource value: 0x7f080060
+			public const int btnVoltarTurmas = 2131230816;
+			
+			// aapt resource value: 0x7f08003c
+			public const int cancel = 2131230780;
+			
+			// aapt resource value: 0x7f08003f
+			public const int center_view = 2131230783;
+			
+			// aapt resource value: 0x7f08005d
+			public const int chkPresenteAlunoRegistrarFrequencia = 2131230813;
+			
+			// aapt resource value: 0x7f080038
+			public const int date_picker_day = 2131230776;
+			
+			// aapt resource value: 0x7f080034
+			public const int date_picker_header = 2131230772;
+			
+			// aapt resource value: 0x7f080037
+			public const int date_picker_month = 2131230775;
+			
+			// aapt resource value: 0x7f080036
+			public const int date_picker_month_and_day = 2131230774;
+			
+			// aapt resource value: 0x7f080039
+			public const int date_picker_year = 2131230777;
+			
+			// aapt resource value: 0x7f080035
+			public const int day_picker_selected_date_layout = 2131230773;
+			
+			// aapt resource value: 0x7f08003b
+			public const int done_background = 2131230779;
+			
+			// aapt resource value: 0x7f080040
+			public const int hour_space = 2131230784;
+			
+			// aapt resource value: 0x7f080042
+			public const int hours = 2131230786;
+			
+			// aapt resource value: 0x7f080008
+			public const int lbl = 2131230728;
+			
+			// aapt resource value: 0x7f08005a
+			public const int lblAlunosRegistrarFrequencia = 2131230810;
+			
+			// aapt resource value: 0x7f08001e
+			public const int lblAlunosTurmas = 2131230750;
+			
+			// aapt resource value: 0x7f080011
+			public const int lblCPFAluno = 2131230737;
+			
+			// aapt resource value: 0x7f080054
+			public const int lblData = 2131230804;
+			
+			// aapt resource value: 0x7f080055
+			public const int lblDataRegistrarFrequencia = 2131230805;
+			
+			// aapt resource value: 0x7f080026
+			public const int lblDiaDeAulaAulaListar = 2131230758;
+			
+			// aapt resource value: 0x7f08000b
+			public const int lblEnderecoAluno = 2131230731;
+			
+			// aapt resource value: 0x7f080018
+			public const int lblMateriaTurma = 2131230744;
+			
+			// aapt resource value: 0x7f080031
+			public const int lblMateriaTurmaListar = 2131230769;
+			
+			// aapt resource value: 0x7f08002c
+			public const int lblNomeAlunoListar = 2131230764;
+			
+			// aapt resource value: 0x7f08005c
+			public const int lblNomeAlunoRegistrarFrequencia = 2131230812;
+			
+			// aapt resource value: 0x7f080022
+			public const int lblNomeAlunoTurma = 2131230754;
+			
+			// aapt resource value: 0x7f080014
+			public const int lblRGAluno = 2131230740;
+			
+			// aapt resource value: 0x7f08000e
+			public const int lblTelefoneAluno = 2131230734;
+			
+			// aapt resource value: 0x7f080024
+			public const int lblTurmaAulaListar = 2131230756;
+			
+			// aapt resource value: 0x7f080052
+			public const int lblTurmaRegistrarFrequencia = 2131230802;
+			
+			// aapt resource value: 0x7f080006
+			public const int linearLayout1 = 2131230726;
+			
+			// aapt resource value: 0x7f08000a
+			public const int linearLayout2 = 2131230730;
+			
+			// aapt resource value: 0x7f080007
+			public const int linearLayout99 = 2131230727;
+			
+			// aapt resource value: 0x7f080029
+			public const int lstHistoricoAulas = 2131230761;
+			
+			// aapt resource value: 0x7f08002b
+			public const int lstListarAlunos = 2131230763;
+			
+			// aapt resource value: 0x7f08005b
+			public const int lstListarAlunosRegistrarFrequencia = 2131230811;
+			
+			// aapt resource value: 0x7f080021
+			public const int lstListarAlunosTurma = 2131230753;
+			
+			// aapt resource value: 0x7f080030
+			public const int lstListarTurmas = 2131230768;
+			
+			// aapt resource value: 0x7f080044
+			public const int minutes = 2131230788;
+			
+			// aapt resource value: 0x7f080043
+			public const int minutes_space = 2131230787;
+			
+			// aapt resource value: 0x7f08004e
+			public const int month_text_view = 2131230798;
+			
+			// aapt resource value: 0x7f08003d
+			public const int ok = 2131230781;
+			
+			// aapt resource value: 0x7f080010
+			public const int panCPF = 2131230736;
+			
+			// aapt resource value: 0x7f080013
+			public const int panRG = 2131230739;
+			
+			// aapt resource value: 0x7f08000d
+			public const int panTelefone = 2131230733;
+			
+			// aapt resource value: 0x7f080047
+			public const int seconds = 2131230791;
+			
+			// aapt resource value: 0x7f080046
+			public const int seconds_space = 2131230790;
+			
+			// aapt resource value: 0x7f080041
+			public const int separator = 2131230785;
+			
+			// aapt resource value: 0x7f080045
+			public const int separator_seconds = 2131230789;
+			
+			// aapt resource value: 0x7f08001f
+			public const int spnAlunos = 2131230751;
+			
+			// aapt resource value: 0x7f080053
+			public const int spnTurmasRegistrarFrequencia = 2131230803;
+			
+			// aapt resource value: 0x7f08003e
+			public const int time_display = 2131230782;
+			
+			// aapt resource value: 0x7f08004b
+			public const int time_display_background = 2131230795;
+			
+			// aapt resource value: 0x7f08004c
+			public const int time_picker = 2131230796;
+			
+			// aapt resource value: 0x7f08004a
+			public const int time_picker_dialog = 2131230794;
+			
+			// aapt resource value: 0x7f08004d
+			public const int time_picker_header = 2131230797;
+			
+			// aapt resource value: 0x7f080009
+			public const int txtAlunoNome = 2131230729;
+			
+			// aapt resource value: 0x7f080012
+			public const int txtCPFAluno = 2131230738;
+			
+			// aapt resource value: 0x7f08000c
+			public const int txtEnderecoAluno = 2131230732;
+			
+			// aapt resource value: 0x7f080019
+			public const int txtMateriaTurma = 2131230745;
+			
+			// aapt resource value: 0x7f080015
+			public const int txtRGAluno = 2131230741;
+			
+			// aapt resource value: 0x7f08000f
+			public const int txtTelefoneAluno = 2131230735;
 			
 			static Id()
 			{
@@ -89,16 +655,82 @@ namespace DIMO
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int CadastrarAlunos = 2130903040;
+			public const int Alunos = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int CadastrarTurmas = 2130903041;
+			public const int Aulas = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int MenuPrincipal = 2130903042;
+			public const int CadastrarAlunos = 2130903042;
 			
 			// aapt resource value: 0x7f030003
-			public const int Turmas = 2130903043;
+			public const int CadastrarTurmas = 2130903043;
+			
+			// aapt resource value: 0x7f030004
+			public const int CadastrarTurmasAlunos = 2130903044;
+			
+			// aapt resource value: 0x7f030005
+			public const int CadastrarTurmasAlunosItens = 2130903045;
+			
+			// aapt resource value: 0x7f030006
+			public const int HistoricoAulaItens = 2130903046;
+			
+			// aapt resource value: 0x7f030007
+			public const int HistoricoAulas = 2130903047;
+			
+			// aapt resource value: 0x7f030008
+			public const int ListarAlunos = 2130903048;
+			
+			// aapt resource value: 0x7f030009
+			public const int ListarAlunosItens = 2130903049;
+			
+			// aapt resource value: 0x7f03000a
+			public const int ListarTurmas = 2130903050;
+			
+			// aapt resource value: 0x7f03000b
+			public const int ListarTurmasItens = 2130903051;
+			
+			// aapt resource value: 0x7f03000c
+			public const int mdtp_date_picker_dialog = 2130903052;
+			
+			// aapt resource value: 0x7f03000d
+			public const int mdtp_date_picker_header_view = 2130903053;
+			
+			// aapt resource value: 0x7f03000e
+			public const int mdtp_date_picker_selected_date = 2130903054;
+			
+			// aapt resource value: 0x7f03000f
+			public const int mdtp_date_picker_view_animator = 2130903055;
+			
+			// aapt resource value: 0x7f030010
+			public const int mdtp_done_button = 2130903056;
+			
+			// aapt resource value: 0x7f030011
+			public const int mdtp_time_header_label = 2130903057;
+			
+			// aapt resource value: 0x7f030012
+			public const int mdtp_time_picker_dialog = 2130903058;
+			
+			// aapt resource value: 0x7f030013
+			public const int mdtp_time_title_view = 2130903059;
+			
+			// aapt resource value: 0x7f030014
+			public const int mdtp_year_label_text_view = 2130903060;
+			
+			// aapt resource value: 0x7f030015
+			public const int MenuPrincipal = 2130903061;
+			
+			// aapt resource value: 0x7f030016
+			public const int RegistrarFrequencia = 2130903062;
+			
+			// aapt resource value: 0x7f030017
+			public const int RegistrarFrequenciaAlunos = 2130903063;
+			
+			// aapt resource value: 0x7f030018
+			public const int RegistrarFrequenciaAlunosItens = 2130903064;
+			
+			// aapt resource value: 0x7f030019
+			public const int Turmas = 2130903065;
 			
 			static Layout()
 			{
@@ -113,11 +745,104 @@ namespace DIMO
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f040001
-			public const int ApplicationName = 2130968577;
+			// aapt resource value: 0x7f040020
+			public const int ApplicationName = 2130968608;
+			
+			// aapt resource value: 0x7f04001f
+			public const int Hello = 2130968607;
+			
+			// aapt resource value: 0x7f04000e
+			public const int mdtp_ampm_circle_radius_multiplier = 2130968590;
+			
+			// aapt resource value: 0x7f04000c
+			public const int mdtp_cancel = 2130968588;
+			
+			// aapt resource value: 0x7f04000f
+			public const int mdtp_circle_radius_multiplier = 2130968591;
+			
+			// aapt resource value: 0x7f040010
+			public const int mdtp_circle_radius_multiplier_24HourMode = 2130968592;
 			
 			// aapt resource value: 0x7f040000
-			public const int Hello = 2130968576;
+			public const int mdtp_date_v1_monthyear = 2130968576;
+			
+			// aapt resource value: 0x7f04000d
+			public const int mdtp_day_of_week_label_typeface = 2130968589;
+			
+			// aapt resource value: 0x7f040001
+			public const int mdtp_day_picker_description = 2130968577;
+			
+			// aapt resource value: 0x7f040002
+			public const int mdtp_deleted_key = 2130968578;
+			
+			// aapt resource value: 0x7f040003
+			public const int mdtp_done_label = 2130968579;
+			
+			// aapt resource value: 0x7f040004
+			public const int mdtp_hour_picker_description = 2130968580;
+			
+			// aapt resource value: 0x7f040005
+			public const int mdtp_item_is_selected = 2130968581;
+			
+			// aapt resource value: 0x7f040006
+			public const int mdtp_minute_picker_description = 2130968582;
+			
+			// aapt resource value: 0x7f040011
+			public const int mdtp_numbers_radius_multiplier_inner = 2130968593;
+			
+			// aapt resource value: 0x7f040012
+			public const int mdtp_numbers_radius_multiplier_normal = 2130968594;
+			
+			// aapt resource value: 0x7f040013
+			public const int mdtp_numbers_radius_multiplier_outer = 2130968595;
+			
+			// aapt resource value: 0x7f040014
+			public const int mdtp_ok = 2130968596;
+			
+			// aapt resource value: 0x7f040015
+			public const int mdtp_radial_numbers_typeface = 2130968597;
+			
+			// aapt resource value: 0x7f040016
+			public const int mdtp_sans_serif = 2130968598;
+			
+			// aapt resource value: 0x7f040017
+			public const int mdtp_second_picker_description = 2130968599;
+			
+			// aapt resource value: 0x7f040007
+			public const int mdtp_select_day = 2130968583;
+			
+			// aapt resource value: 0x7f040008
+			public const int mdtp_select_hours = 2130968584;
+			
+			// aapt resource value: 0x7f040009
+			public const int mdtp_select_minutes = 2130968585;
+			
+			// aapt resource value: 0x7f040018
+			public const int mdtp_select_seconds = 2130968600;
+			
+			// aapt resource value: 0x7f04000a
+			public const int mdtp_select_year = 2130968586;
+			
+			// aapt resource value: 0x7f040019
+			public const int mdtp_selection_radius_multiplier = 2130968601;
+			
+			// aapt resource value: 0x7f04001a
+			public const int mdtp_text_size_multiplier_inner = 2130968602;
+			
+			// aapt resource value: 0x7f04001b
+			public const int mdtp_text_size_multiplier_normal = 2130968603;
+			
+			// aapt resource value: 0x7f04001c
+			public const int mdtp_text_size_multiplier_outer = 2130968604;
+			
+			// aapt resource value: 0x7f04001d
+			public const int mdtp_time_placeholder = 2130968605;
+			
+			// aapt resource value: 0x7f04001e
+			public const int mdtp_time_separator = 2130968606;
+			
+			// aapt resource value: 0x7f04000b
+			public const int mdtp_year_picker_description = 2130968587;
 			
 			static String()
 			{
@@ -125,6 +850,43 @@ namespace DIMO
 			}
 			
 			private String()
+			{
+			}
+		}
+		
+		public partial class Style
+		{
+			
+			// aapt resource value: 0x7f060003
+			public const int mdtp_ActionButton = 2131099651;
+			
+			// aapt resource value: 0x7f060004
+			public const int mdtp_ActionButton_Text = 2131099652;
+			
+			// aapt resource value: 0x7f060005
+			public const int mdtp_ampm_label = 2131099653;
+			
+			// aapt resource value: 0x7f060000
+			public const int mdtp_day_of_week_label_condensed = 2131099648;
+			
+			// aapt resource value: 0x7f060001
+			public const int mdtp_done_button_light = 2131099649;
+			
+			// aapt resource value: 0x7f060006
+			public const int mdtp_time_label = 2131099654;
+			
+			// aapt resource value: 0x7f060007
+			public const int mdtp_time_label_small = 2131099655;
+			
+			// aapt resource value: 0x7f060002
+			public const int mdtp_time_label_thin = 2131099650;
+			
+			static Style()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Style()
 			{
 			}
 		}

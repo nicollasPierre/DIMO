@@ -16,7 +16,7 @@
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
     <AndroidUseLatestPlatformSdk>True</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -48,31 +48,60 @@
     <Reference Include="Mono.Android" />
     <Reference Include="Mono.Data.Sqlite" />
     <Reference Include="mscorlib" />
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\netstandard1.3\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data" />
     <Reference Include="System.Data.Portable, Version=4.0.0.0, Culture=neutral, PublicKeyToken=59e704a76bc4613a, processorArchitecture=MSIL">
       <HintPath>..\packages\Mono.Data.Sqlite.Portable.1.0.3.5\lib\MonoAndroid\System.Data.Portable.dll</HintPath>
     </Reference>
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Net.Http" />
     <Reference Include="System.Transactions" />
     <Reference Include="System.Transactions.Portable, Version=4.0.0.0, Culture=neutral, PublicKeyToken=59e704a76bc4613a, processorArchitecture=MSIL">
       <HintPath>..\packages\Mono.Data.Sqlite.Portable.1.0.3.5\lib\MonoAndroid\System.Transactions.Portable.dll</HintPath>
     </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Xml" />
+    <Reference Include="Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xamarin.Android.Support.v4.23.1.1.1\lib\MonoAndroid403\Xamarin.Android.Support.v4.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Bindings.MaterialDateTimePicker, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Xamarin.Bindings.MaterialDateTimePicker.2.5.0\lib\MonoAndroid\Xamarin.Bindings.MaterialDateTimePicker.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
-    <Compile Include="Resources\controler\CadastrarAlunosActivity.cs" />
-    <Compile Include="Resources\controler\CadastrarTurmasActivity.cs" />
-    <Compile Include="Resources\controler\dao\CriarBD.cs" />
-    <Compile Include="Resources\controler\TurmasActivity.cs" />
+    <Compile Include="Resources\activity\AlunosActivity.cs" />
+    <Compile Include="Resources\activity\AulasActivity.cs" />
+    <Compile Include="Resources\activity\CadastrarAlunosActivity.cs" />
+    <Compile Include="Resources\activity\CadastrarTurmasActivity.cs" />
+    <Compile Include="Resources\activity\CadastrarTurmasAlunosActivity.cs" />
+    <Compile Include="Resources\activity\RegistrarFrequenciaAlunosActivity.cs" />
+    <Compile Include="Resources\adapter\AlunoAdapter.cs" />
+    <Compile Include="Resources\adapter\AlunoAulaAdapter.cs" />
+    <Compile Include="Resources\adapter\AlunoTurmaAdapter.cs" />
+    <Compile Include="Resources\adapter\AulaAdapter.cs" />
+    <Compile Include="Resources\adapter\TurmaAdapter.cs" />
+    <Compile Include="Resources\controller\AlunoController.cs" />
+    <Compile Include="Resources\controller\AulaController.cs" />
+    <Compile Include="Resources\activity\ListarAlunosActivity.cs" />
+    <Compile Include="Resources\activity\ListarTurmasActivity.cs" />
+    <Compile Include="Resources\activity\RegistrarFrequenciaActivity.cs" />
+    <Compile Include="Resources\activity\TurmasActivity.cs" />
+    <Compile Include="Resources\activity\HistoricoAulasActivity.cs" />
+    <Compile Include="Resources\controller\dao\MainDAO.cs" />
+    <Compile Include="Resources\controller\TurmaController.cs" />
     <Compile Include="Resources\model\Aluno.cs" />
+    <Compile Include="Resources\model\AlunoAula.cs" />
+    <Compile Include="Resources\model\Aula.cs" />
+    <Compile Include="Resources\model\Turma.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="GettingStarted.Xamarin" />
     <None Include="packages.config" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
@@ -86,6 +115,42 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\Alunos.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Aulas.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ListarAlunos.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ListarTurmas.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\RegistrarFrequencia.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\HistoricoAulas.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ListarAlunosItens.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\CadastrarTurmasAlunos.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\CadastrarTurmasAlunosItens.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\ListarTurmasItens.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\RegistrarFrequenciaAlunos.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\RegistrarFrequenciaAlunosItens.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\HistoricoAulaItens.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

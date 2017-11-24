@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="DIMO.DIMO" android:versionCode="1" android:versionName="1.0" android:installLocation="preferExternal">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <application android:label="DIMO" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon">
+    <activity android:icon="@drawable/icon" android:label="DIMO" android:name="md57ba19113cbeeeb335d682ca6a43a03f1.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Alunos" android:name="md5b2c134533451bf476345333496475e99.AlunosActivity" />
+    <activity android:label="Aulas" android:name="md5b2c134533451bf476345333496475e99.AulasActivity" />
+    <activity android:label="Cadastrar Aluno" android:name="md5b2c134533451bf476345333496475e99.CadastrarAlunosActivity" />
+    <activity android:label="Cadastrar Turma" android:name="md5b2c134533451bf476345333496475e99.CadastrarTurmasActivity" />
+    <activity android:label="Cadastrar Alunos da Turma" android:name="md5b2c134533451bf476345333496475e99.CadastrarTurmasAlunosActivity" />
+    <activity android:label="Registrar Frequencia dos Alunos" android:name="md5b2c134533451bf476345333496475e99.RegistrarFrequenciaAlunosActivity" />
+    <activity android:label="Listar Alunos" android:name="md5b2c134533451bf476345333496475e99.ListarAlunosActivity" />
+    <activity android:label="Listar Turmas" android:name="md5b2c134533451bf476345333496475e99.ListarTurmasActivity" />
+    <activity android:label="Registrar Frequencia" android:name="md5b2c134533451bf476345333496475e99.RegistrarFrequenciaActivity" />
+    <activity android:label="Turmas" android:name="md5b2c134533451bf476345333496475e99.TurmasActivity" />
+    <activity android:label="Historico de Aulas" android:name="md5b2c134533451bf476345333496475e99.HistoricoAulasActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="DIMO.DIMO.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+  <uses-permission android:name="android.permission.VIBRATE" />
+</manifest>
