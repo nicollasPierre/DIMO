@@ -56,7 +56,7 @@ namespace DIMO.Resources.activity
             {
                 if (txtMateria.Text == string.Empty)
                 {
-                    Toast.MakeText(ApplicationContext, "Escolha uma matéria", ToastLength.Long).Show();
+                    Toast.MakeText(ApplicationContext, "Escolha uma matéria.", ToastLength.Long).Show();
                 }
                 else
                 {
@@ -66,7 +66,7 @@ namespace DIMO.Resources.activity
                         TurmaController.AddTurma(TurmaController.TurmaEditando);
                     }
                     TurmaController.TurmaEditando = null;
-                    Toast.MakeText(ApplicationContext, "Salvo Turma com sucesso", ToastLength.Long).Show();
+                    Toast.MakeText(ApplicationContext, "Salvo Turma com sucesso.", ToastLength.Long).Show();
                     MainDAO.SalvarTudo();
                     this.Finish();
                 }
