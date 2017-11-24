@@ -9,8 +9,6 @@ namespace DIMO.Resources.model
     {
         private int id;
         private string materia;
-        private DateTime dataInicio;
-        private DateTime dataFinal;
 		List<Aluno> alunos = new List<Aluno>();
 
         public int Id
@@ -23,18 +21,6 @@ namespace DIMO.Resources.model
         {
             get { return materia; }
             set { materia = value; }
-        }
-
-        public DateTime DataInicio
-        {
-            get { return dataInicio; }
-            set { dataInicio = value; }
-        }
-
-        public DateTime DataFinal
-        {
-            get { return dataFinal; }
-            set { dataFinal = value; }
         }
 		
 		public List<Aluno> Alunos
